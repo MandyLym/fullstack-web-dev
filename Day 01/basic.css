@@ -1,0 +1,30 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: teal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 20px 10px 30px 10px;
+  margin: 10px;
+}
+h1 {
+  color: blue;
+  font-size: 30px;
+}
+h2 {
+  color: orange;
+  font-size: 20px;
+}
+.para {
+  color: purple;
+  font-size: 18px;
+}
+.mypara {
+  font-style: italic;
+}
+#Heading {
+  color: green;
+  font-size: 48px;
+}
